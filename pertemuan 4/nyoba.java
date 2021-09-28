@@ -8,12 +8,12 @@ public class nyoba {
         String namaDepan = ehe.nextLine();
         System.out.println("kamu kuliah di mana : ");
         String tempat = ehe.nextLine();
-        System.out.println("kamu jurusan apa cok : ");
+        System.out.println("kamu jurusan apa : ");
         String jurusan = ehe.nextLine();
 
-        System.out.println("nama i adalah " + namaDepan);
-        System.out.println("i kuliah di " + tempat);
-        System.out.println("i jurusan " + jurusan);
+        System.out.println("namaku adalah " + namaDepan);
+        System.out.println("aku kuliah di " + tempat);
+        System.out.println("di jurusan " + jurusan);
     }
 }
 
